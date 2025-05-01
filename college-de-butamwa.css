@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #e8f0fe;
+    padding: 20px 10px;
+    border-bottom: 2px solid #0077cc;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .school-info, .contact-info {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  .school-info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .school-info th, .school-info td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .school-info th {
+    background-color: #f0f0f0;
+    width: 30%;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #e8f0fe;
+    border-top: 1px solid #0077cc;
+  }
+  
